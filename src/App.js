@@ -1,12 +1,12 @@
-import Greetings from './components/Greeting';
-import './App.css';
+import React from 'react';
+import { Provider } from 'react-redux';
+import store from './redux/store';
+import Greeting from './components/Greeting';
 
-function App() {
-  return (
-    <div className="App">
-      <Greetings />
-      </div>
-  );
-}
+const App = () => (
+  <Provider store={store}>
+    <Greeting />
+  </Provider>
+);
 
 export default App;
