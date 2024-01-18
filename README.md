@@ -1,70 +1,182 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- MAIN HEADING -->
 
-### `npm start`
+  <h3><b>Greetings React project Front-end</b></h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- TABLE OF CONTENTS -->
+# 📗 Table of Contents
 
-### `npm test`
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [🚀 Back-end Link](#back-end)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- INTRO -->
+# 📖 Greetings Rails project with Webpack <a name="about-project"></a>
 
-### `npm run build`
+> Greetings React project Front-end is the backend of a fun meet and greet project that uses both Rails backend and React with Webpack frontend. If you want to have endless greetings, here is your friend. The greeting display has been set up with a Timer and changes after every 10 seconds.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Built With <a name="built-with"></a>
+1. React
+2. Redux
+4. Webpack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Tech Stack <a name="tech-stack"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://legacy.reactjs.org/">React</a></li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
+    <li><a href="https://webpack.js.org/">Webpack</a></li>
+  </ul>
+</details>
 
-### `npm run eject`
+<!-- Features -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Key Features <a name="key-features"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> - Display Greetings using React frontend from a Rails backend
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<!-- BACK END -->
 
-## Learn More
+### BACK END
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+> View the [Back-end](https://github.com/leloufadel/hello-rails-backend.git) part of the project here.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Code Splitting
+<!-- GETTING STARTED -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 💻 Getting Started <a name="getting-started"></a>
 
-### Analyzing the Bundle Size
+> To get a local copy of the project, use this link:
+> 
+```sh
+cd hello-react-frontend
+https://github.com/leloufadel/hello-react-frontend.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- SETUP -->
+### Setup
 
-### Making a Progressive Web App
+To setup this project, run this command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```sh
+npm start
+```
+### Prerequisites
 
-### Advanced Configuration
+1. A Code Editor
+2. Internet Connection
+3. Git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- INSTALL -->
+### Install
 
+Install this project with Iroko.
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+npm start
+```
+### Run tests
+To test the project, execute the following command:
+```sh
+rspec
+```
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+You can deploy this project using:
+>1. GitHub Pages
+>2. Render
+>3. Any other hosting site
 
-### `npm run build` fails to minify
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- AUTHORS -->
+## 👥 Authors <a name="authors"></a>
+
+👤 **Anyars Yussif**
+
+- GitHub: [@leloufadel](https://github.com/leloufadel)
+- Twitter: [@leloufadel](https://twitter.com/leloufadel)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lalaaicha-elvadel/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Display more greetings**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTION -->
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project, please give it some starts ⭐️⭐️⭐️⭐️⭐️
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Special credit to [microverseinc](https://github.com/microverseinc) for the design materials.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQS -->
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **How were the Linters utilised?**
+
+  - The Linters were utilised with the help of resources provided by [@microverseinc](https://github.com/microverseinc).
+
+- **What new features should be expected in the next release of the project?**
+
+  - We are currently working on adding: 
+    - **Display more greetings**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
