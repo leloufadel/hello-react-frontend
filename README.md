@@ -65,7 +65,7 @@
 
 ### BACK END
 
-> View the [Back-end](https://github.com/leloufadel/hello-rails-backend.git) part of the project here.
+> View the [Back-end](https://github.com/leloufadel/hello-rails-backend/tree/setup) part of the project here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
